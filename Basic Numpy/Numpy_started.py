@@ -1,4 +1,8 @@
 
+# installaton numpy
+
+# pip install numpy
+
 # import numpy as 
 
 import numpy as np
